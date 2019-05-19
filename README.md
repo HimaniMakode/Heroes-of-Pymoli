@@ -1,5 +1,5 @@
 # Heroes-of-Pymoli
-Analyzing the data for their most recent fantasy game Heroes of Pymoli using Pandas
+Analyzing the data for most recent fantasy game Heroes of Pymoli using Pandas
 1. Looking at the gender of active players, out of the total players the majority players are male(84%) and less proportion of female players(14%).
 
 ![gender](https://user-images.githubusercontent.com/44784856/57641460-e970a400-7569-11e9-8673-ceecb1d480c6.JPG)
